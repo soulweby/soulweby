@@ -1,4 +1,4 @@
-#  Hello Word,I’m SOULEY 👋
+#  Hello Word,I’m SOULEY Web developer full-stack 👋
 - ### 👀 I’m looking for alternance 
 - ### 🌱 I’m currently studying in webacademie/ @EpitechIT2020
 
