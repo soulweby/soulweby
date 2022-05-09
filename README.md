@@ -1,9 +1,9 @@
 #  Hello Word,I’m SOULEY Web developer full-stack 👋
-- ### 👀 I’m looking for alternance 
-- ### 🌱 I’m currently studying in webacademie/ @EpitechIT2020
+-  👀 I’m looking for alternance 
+-  🌱 I’m currently studying in webacademie/ @EpitechIT2020
 
-- ### 💞️ I’m looking to collaborate on open source
-- ### 😀 Fun fact: i speak french, english and spanish
+-  💞️ I’m looking to collaborate on open source
+-  😀 Fun fact: i speak french, english and spanish
 
 
 
