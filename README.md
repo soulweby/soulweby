@@ -21,7 +21,11 @@
 ![MYSQL](https://user-images.githubusercontent.com/77032162/167426647-7df17d51-1244-4109-b6fa-eee16e197d3e.svg)
 
 
+
+
+
+
+
+
+
 ![weba](https://user-images.githubusercontent.com/77032162/167417461-67c30a8d-1c2a-459c-9ed6-58a25c6e516c.png)
-
-
-
